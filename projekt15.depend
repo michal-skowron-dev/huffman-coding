@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1497626992 source:c:\documents and settings\micha³\pulpit\codeblocks\projekt15\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
